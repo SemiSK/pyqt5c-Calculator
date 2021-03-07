@@ -26,7 +26,7 @@
     <enum>Qt::Horizontal</enum>
    </property>
    <property name="standardButtons">
-    <set>QDialogButtonBox::Cancel|QDialogButtonBox::Ok</set>
+    <set>QDialogButtonBox::Cancel</set>
    </property>
   </widget>
   <widget class="QPushButton" name="seven">
@@ -164,7 +164,7 @@
     <rect>
      <x>160</x>
      <y>230</y>
-     <width>41</width>
+     <width>91</width>
      <height>41</height>
     </rect>
    </property>
@@ -190,7 +190,7 @@
     <rect>
      <x>160</x>
      <y>80</y>
-     <width>41</width>
+     <width>91</width>
      <height>41</height>
     </rect>
    </property>
@@ -202,7 +202,7 @@
    <property name="geometry">
     <rect>
      <x>210</x>
-     <y>80</y>
+     <y>130</y>
      <width>41</width>
      <height>41</height>
     </rect>
@@ -215,7 +215,7 @@
    <property name="geometry">
     <rect>
      <x>210</x>
-     <y>130</y>
+     <y>180</y>
      <width>41</width>
      <height>41</height>
     </rect>
